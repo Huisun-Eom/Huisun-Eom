@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
+<a href="https://blog.naver.com/uhs0210" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
